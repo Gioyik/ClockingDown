@@ -1,0 +1,9 @@
+{
+    "name": "ClockingDown",
+    "package_path" : "http://localhost/ClockingDown/ClockingDown.zip",
+    "version": "1.0",
+    "developer": {
+        "name": "Giovanny Andres Gongora Granada",
+        "url": "http://github.com/Gioyik"
+    }
+}
